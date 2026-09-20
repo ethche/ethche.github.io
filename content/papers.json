@@ -56,19 +56,6 @@
     ]
   },
   {
-    "title": "How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach",
-    "authors": "Ayeong Lee*, Ethan Che*, and Tianyi Peng",
-    "notes": [
-      "ICML 2025 Workshop ES-FoMo-III"
-    ],
-    "links": [
-      {
-        "url": "https://arxiv.org/abs/2503.01141",
-        "label": "arXiv"
-      }
-    ]
-  },
-  {
     "title": "Stochastic Gradient Descent with Adaptive Data",
     "authors": "Ethan Che, Jing Dong, and Xin T. Tong",
     "notes": [
