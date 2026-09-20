@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
+    "authors": "Dunfan Lu, Yifei Xu, Jongsok Choi, Ethan Che, Oguz Ulgen, Jason Ansel, Yarong Mu, Theotime Combes, Emilio Cota, Freya Azad",
+    "notes": [
+      "PyTorch Blog · July 23, 2026"
+    ],
+    "links": [
+      {
+        "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/",
+        "label": "blog post"
+      }
+    ]
+  },
+  {
+    "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
+    "authors": "Jacky (Junqing) Zhou, Hongtao Yu, Jackie (Jiaqi) Xu, Menglu Yu, Ethan Che, Han Xu, Darren Liu, Peng Chen (Dev Infra), Daohang Shi, Max Leung",
+    "notes": [
+      "PyTorch Blog · July 10, 2026"
+    ],
+    "links": [
+      {
+        "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels/",
+        "label": "blog post"
+      }
+    ]
+  },
+  {
+    "title": "Accelerating Autotuning in Helion with Bayesian Optimization",
+    "authors": "Ethan Che, Oguz Ulgen, Max Balandat, Jongsok Choi, Jason Ansel",
+    "notes": [
+      "PyTorch Blog · February 24, 2026"
+    ],
+    "links": [
+      {
+        "url": "https://pytorch.org/blog/accelerating-autotuning-in-helion/",
+        "label": "blog post"
+      }
+    ]
+  },
+  {
+    "title": "Exploration Sizing via Model-Predictive Control",
+    "authors": "Ethan Che, Hakan Ceylan, James McInerney, and Nathan Kallus",
+    "notes": [
+      "WWW 2026"
+    ],
+    "links": [
+      {
+        "url": "https://dl.acm.org/doi/10.1145/3774904.3792661",
+        "label": "conference"
+      },
+      {
+        "url": "https://arxiv.org/abs/2506.03324",
+        "label": "arXiv"
+      }
+    ]
+  },
+  {
+    "title": "How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach",
+    "authors": "Ayeong Lee*, Ethan Che*, and Tianyi Peng",
+    "notes": [
+      "ICML 2025 Workshop ES-FoMo-III"
+    ],
+    "links": [
+      {
+        "url": "https://arxiv.org/abs/2503.01141",
+        "label": "arXiv"
+      }
+    ]
+  },
+  {
+    "title": "Stochastic Gradient Descent with Adaptive Data",
+    "authors": "Ethan Che, Jing Dong, and Xin T. Tong",
+    "notes": [
+      "Operations Research, 2026"
+    ],
+    "links": [
+      {
+        "url": "https://arxiv.org/abs/2410.01195",
+        "label": "arXiv"
+      },
+      {
+        "url": "https://pubsonline.informs.org/doi/10.1287/opre.2024.1014",
+        "label": "journal"
+      }
+    ]
+  },
+  {
+    "title": "Differentiable Discrete Event Simulation for Queuing Network Control",
+    "authors": "Ethan Che, Jing Dong, and Hongseok Namkoong",
+    "notes": [
+      "arXiv:2409.03740 [cs.LG], 2024",
+      "Preliminary version in ICML 2023 Differentiable Almost Everything Workshop"
+    ],
+    "links": [
+      {
+        "url": "https://arxiv.org/abs/2409.03740",
+        "label": "arXiv"
+      },
+      {
+        "url": "https://differentiable.xyz/papers/paper_27.pdf",
+        "label": "workshop"
+      }
+    ]
+  }
+]
