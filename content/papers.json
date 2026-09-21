@@ -71,23 +71,5 @@
         "label": "journal"
       }
     ]
-  },
-  {
-    "title": "Differentiable Discrete Event Simulation for Queuing Network Control",
-    "authors": "Ethan Che, Jing Dong, and Hongseok Namkoong",
-    "notes": [
-      "arXiv:2409.03740 [cs.LG], 2024",
-      "Preliminary version in ICML 2023 Differentiable Almost Everything Workshop"
-    ],
-    "links": [
-      {
-        "url": "https://arxiv.org/abs/2409.03740",
-        "label": "arXiv"
-      },
-      {
-        "url": "https://differentiable.xyz/papers/paper_27.pdf",
-        "label": "workshop"
-      }
-    ]
   }
 ]
