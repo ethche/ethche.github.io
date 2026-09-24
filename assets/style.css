@@ -1,5 +1,5 @@
 /* One stylesheet, system fonts, no client-side JavaScript. */
-:root { color-scheme: light; --paper: #faf9f6; --ink: #252522; --muted: #6b6b63; --line: #deded5; --link: #385b49; }
+:root { color-scheme: light; --paper: #ffffff; --ink: #252522; --muted: #6b6b63; --line: #deded5; --link: #385b49; }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 32px; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; -webkit-font-smoothing: antialiased; }
